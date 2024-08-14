@@ -1,0 +1,16 @@
+# Ignore macOS system files
+.DS_Store
+
+# Ignore LaTeX build files (excluding .pdf and .tex files)
+*.aux
+*.bbl
+*.bcf
+*.bib
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.run.xml
+*.synctex.gz
+
